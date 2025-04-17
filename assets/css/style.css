@@ -74,12 +74,12 @@ h6 {
   top: 0;
   left: 0;
   bottom: 0;
-  width: 240px;
+  width: 270px;
   transition: all ease-in-out 0.5s;
   z-index: 9997;
   transition: all 0.5s;
-  padding: 0 15px;
-  background: #d5e5f8;
+  padding: 0 5px;
+  background: #dff5ff;
   overflow-y: auto;
 }
 
@@ -133,8 +133,8 @@ h6 {
 
 .container,
 .container-fluid {
-  padding-left: 120px;
-  padding-right: 120px;
+  padding-left: 90px;
+  padding-right: 70px;
 }
 
 @media (max-width: 1199px) {
@@ -314,7 +314,7 @@ h6 {
 # Sections General
 --------------------------------------------------------------*/
 section {
-  padding: 60px 0;
+  padding: 21.5px 0;
   overflow: hidden;
 }
 
@@ -1124,7 +1124,7 @@ section {
   position: fixed;
   left: 0;
   bottom: 0;
-  width: 240px;
+  width: 270px;
   z-index: 9999;
   background: #040b14;
 }
